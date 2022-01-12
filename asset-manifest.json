@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/thumbnail-generator/static/js/main.3cfe2c17.js",
+    "index.html": "/thumbnail-generator/index.html",
+    "main.3cfe2c17.js.map": "/thumbnail-generator/static/js/main.3cfe2c17.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.3cfe2c17.js"
+  ]
+}
